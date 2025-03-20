@@ -22,4 +22,4 @@ Open the project folder:
 Open index.html in a web browser.
 Screenshot:
 ![image](https://github.com/user-attachments/assets/3030b344-ec80-495e-823e-4a663165fec5)
-[Click here to view the live project](rainbow-seahorse-67fbde.netlify.app)
+[Click here to view the live project]([rainbow-seahorse-67fbde.netlify.app](https://rainbow-seahorse-67fbde.netlify.app/))
